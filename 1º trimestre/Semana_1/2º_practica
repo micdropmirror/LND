@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+  </head>
+  <body>    
+    <h1>Módulo de Administración en Sistemas Informáticos en Red (ASIR)</h1>
+      <p>Todo lo que le puede interesar a un estudiante de ASIR</p>
+    <h2>Mis intereses tecnológicos</h2>
+      <ul>
+        <li>Me intersan los softwares de diseño de patrones.</li>
+        <li>Me gustaría aprender más lenguajes de programación.</li>
+        <li>Me gusta la electronica.</li>
+        <li>Me interesa aprender modelado 3D.</li>
+      </ul>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYpwicmrlRBeBXBLAjcwAscClmePR3u2xVwGHlVO63-Q&s=10" alt="softwares de modelado 3D">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AFmdg3KreHwhELkMibl8kU3EMxXprwQ9E2n-_W-N0w&s=10" alt="Algunos lenguajes de programación">
+    <h2>Mis intereses laborales</h2> 
+      <ul>
+        <li>Me llama la atención el sector de desarrollo de videojugos y animación digital.</li>
+        <li>Me interesa la Ingeniería mecatronica.</li>
+        <li>Me llama la atención el Business Analitycs</li>
+      </ul>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZ83JSR7PUmRTtg9l4G9V3VJWotsrEvxt7XJKMN7aWw&s=10" alt="foto del desarrollo de un personaje de videojugos">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaiTQC8Yoogj8-ltJUfqTiyBKeViZyLjieGhpCkzYq1w&s=10" alt="foto de una de las tareas de un ingeniero mecatronico">
+      <p> Enlace ASIR <a href="https://www3.gobiernodecanarias.org/medusa/edublog/cifpmajadamarcial/5336-2/">Majada Marcial</a></p>
+    </body> 
+</html> 

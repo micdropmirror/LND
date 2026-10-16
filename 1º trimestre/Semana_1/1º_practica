@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+  </head>
+  <body>    
+    <h1>Módulo de Administración en Sistemas Informáticos en Red (ASIR)</h1>
+      <p>Si quieres saber más acerca de esta formacion profecional estas en el lugar correcto</p>
+    <setion>
+    <h2>Objetivos del módulo</h2>
+      <!--Agregar una imagen aquí relacionada-->
+      <p>El objetivo es capacitarte para configurar, administrar y mantener sistemas informáticos, garantizando la funcionalidad, la integridad de los datos, la seguridad y los servicios del sistema de una organización.</p>
+    </setion>
+    <setion>
+    <h2>Asignaturas que tendrá el módulo</h2>
+      <!--Agregar una imagen aquí relacionada-->
+    <h3>Asignaturas del primer curso</h3>
+      <ul>
+        <li>Planificación y Administración de Redes</li>
+        <li>Implantación de Sistemas Operativos</li>
+        <li>Fundamentos de Hardware</li>
+        <li>Gestión de Bases de Datos</li>
+        <li>Lenguajes de Marcas y Sistemas de Gestión de Información</li>
+        <li>Formación y Orientación Laboral (FOL)</li>
+      </ul>   
+    <h3>Asignaturas del segundo curso</h3>
+      <ul>
+        <li>Administración de Sistemas Operativos</li>
+        <li>Servicios de Red e Internet</li>
+        <li>Implantación de Aplicaciones Web</li>
+        <li>Administración de Sistemas Gestores de Bases de Datos</li>
+        <li>Seguridad y Alta Disponibilidad</li>
+        <li>Empresa e Iniciativa Emprendedora</li>
+      </ul>
+    </setion>
+    <setion>
+    <h2>Consejos practicos para:</h2>
+    <h3>El día a día</h3> 
+      <ul>
+        <li><p>No te limites a aprobar, entiende el porqué: En informática, memorizar no sirve de nada. Si un comando o una configuración funciona, investiga por qué funciona. Las tecnologías cambian, pero la lógica de redes y sistemas sigue siendo la misma.</p></li>
+        <li><p>Monta tu propio laboratorio en casa: Instala un software de virtualización (VirtualBox o VMware). Crea redes virtuales, rompe sistemas operativos y arréglalos. Es la única forma real de aprender administración de sistemas sin miedo a romper nada importante.</p></li>
+        <li><p>Amortiza el primer año: El segundo curso es mucho más denso y exige que domines las bases del primero. Si no aprendes bien redes, comandos básicos de Linux y SQL en el primer año, el segundo curso se te hará cuesta arriba.</p></li>
+      </ul> 
+    <h3>Habilidades técnicas</h3>
+      <ul>
+        <li><p>Pierde el miedo a la terminal (CLI): En el mundo profesional, los servidores no tienen interfaz gráfica. Domina la línea de comandos de Linux (Bash) y Windows (PowerShell) desde el primer día.</p></li>
+        <li><p>Aprende a programar/automatizar: ASIR no es un ciclo de desarrollo, pero el administrador moderno no hace tareas repetitivas a mano. Aprende lo básico de Python o Bash scripting para automatizar tareas. Te abrirá las puertas al mundo DevOps y SysOps.</p></li>
+        <li><p>Aprende a buscar en Google y documentación: Un buen informático no lo sabe todo; sabe buscar la solución exacta. Acostúmbrate a leer documentación oficial y a usar foros como StackOverflow.</p></li>
+      </ul>
+    <h3>Preparación para el mercado</h3>  
+      <ul>
+        <li><p>El inglés no es negociable: Toda la documentación técnica, los errores de consola y las mejores soluciones en internet están en inglés. Tener un nivel fluido de lectura técnica te dará una ventaja competitiva gigante.</p></li>
+        <li><p>Documenta tus proyectos (Crea un porfolio): Sube tus scripts de automatización, configuraciones de red o proyectos de clase a GitHub. Cuando busques prácticas o tu primer empleo, un enlace a tu GitHub vale más que cualquier título.</p></li>
+        <li><p>Elige bien tus prácticas (FCT): No busques el sitio más cómodo o cercano. Elige una empresa donde realmente se utilicen tecnologías modernas (Cloud, ciberseguridad, virtualización avanzada) porque muchas veces las prácticas se convierten en tu primer empleo real.</p></li>
+      </ul>
+      <!--Agregar una imagen aquí relacionada-->
+    </setion>
+  </body>
+</html>
