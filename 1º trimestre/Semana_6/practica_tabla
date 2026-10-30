@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>TechGrid</title>
+  </head>
+  <body>
+    <header>
+      <h1>TechGrid</h1> 
+      <nav>
+        <ul>
+          <li><a href="#so">Sobre nosotros</a></li>
+          <li><a href="#catálogo">Catálogo de equipos</a></li>
+          <li><a href="#contacto">Contacto</a></li>    
+        <ul>
+      </nav>
+      <section id="so">
+        <h2>Sobre nosotros</h2>
+        <p>En <strong>TechGrid</strong> Soluciones conectamos a empresas y profesionales con la tecnología que impulsa su día a día a través de un catálogo integral de equipos informáticos. Distribuimos y estructuramos soluciones a medida —desde servidores y estaciones de trabajo hasta portátiles y dispositivos de red— garantizando que cada equipo cuente con el sistema operativo y la configuración ideal para su entorno. Nuestro compromiso es transformar la complejidad tecnológica en una infraestructura limpia, ordenada y eficiente para tu negocio.</p>
+      </section>
+      <section id="catálogo">
+        <h2>Catálogo de equipos</h2>
+        <p>Tabla de catálogo</p>
+        <table>
+          <thead>
+            <tr>
+              <th>Nombre</th>
+              <th>Tipo</th> 
+              <th>Sistema operativo</th>     
+              <th>IP</th> 
+              <th>Estado</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Servidor-Web01</td>
+              <td>Servidor</td>
+              <td>Ubuntu Server 22.04 (td)</td>
+              <td>192.168.1.10</td>
+              <td>Activo</td>
+            </tr>
+            <tr>
+              <td>PC-Diseno03</td>
+              <td>Torre de escritorio</td>
+              <td>Windows 11 Pro</td>
+              <td>192.168.1.55</td>
+              <td>Activo</td>
+            </tr>
+            <tr>
+              <td>Laptop-Admin</td>
+              <td>Portátil</td>
+              <td>macOS Sequoia</td>
+              <td>192.168.1.23</td>
+              <td> Inactivo</td>
+            </tr>
+            <tr>
+              <td>Raspberry-Pi-IoT</td>
+              <td>Microordenador</td>
+              <td>Raspberry Pi OS</td>
+              <td>192.168.1.105</td>
+              <td>Activo</td>
+            </tr>
+            <tr>
+              <td>Aula1-PC12</td>
+              <td>Cliente ligero</td>
+              <td>Debian 12</td>
+              <td>192.168.1.200</td>
+              <td>Activo</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+      <section id="contacto">
+        <h2>Contacto</h2>
+        <footer>
+          <address>
+            TechGrid Soluciones S.A.
+Calle de la Tecnología, Nº 42, Planta 3 <>
+28001 Madrid, España <br>
+Teléfono:<a href="tel:34910123456">+34 910 123 456</a>
+Correo Electrónico:<a href="mailto:contacto@techgridsoluciones.com"contacto@techgridsoluciones.com
+Horario de Atención: Lunes a Viernes de 9:00 a 18:00
+          </address>    
+        </footer>
+      </section>
+    </header>
+  </body>
